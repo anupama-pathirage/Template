@@ -15,6 +15,9 @@ Fixes #<Issue Number>
 ## Related Issues
 > List any other related issues, if applicable.
 
+## Remarks
+> List any other known issues, TODO items or any other notes related to the PR.
+
 ## Check List 
 - [ ] Read the [Contributing Guide](https://github.com/ballerina-platform/ballerina-lang/blob/master/CONTRIBUTING.md)
 - [ ] Added necessary tests

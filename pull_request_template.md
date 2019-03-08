@@ -20,6 +20,7 @@ Fixes #<Issue Number>
 
 ## Check List 
 - [ ] Read the [Contributing Guide](https://github.com/ballerina-platform/ballerina-lang/blob/master/CONTRIBUTING.md)
+- [ ] Required Balo Version Update
 - [ ] Added necessary tests
   - [ ] Unit Tests
   - [ ] Spec Conformance Tests
@@ -30,5 +31,4 @@ Fixes #<Issue Number>
   - [ ] API Documentation 
   - [ ] Module Documentation in Module.md files
   - [ ] Ballerina By Examples
-- [ ] Required Balo Version Update
 

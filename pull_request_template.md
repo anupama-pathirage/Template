@@ -1,5 +1,5 @@
 ## Purpose
-> Describe the problems, issues, or needs driving this feature/fix and include links to related. issues.
+> Describe the problems, issues, or needs driving this feature/fix and include links to related issues.
 
 Fixes #<Issue Number>
 
